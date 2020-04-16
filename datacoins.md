@@ -1,6 +1,6 @@
-# **Open Grant Proposal: ****Datacoins**
+# **Open Grant Proposal: Datacoins **
 
-Name of Project: Filecoin as a data/API/algorithm marketplace (a design for layer 2, data-backed tokens that would make data open, tradable, and programmable)
+Name of Project: Filecoin as a data/API/algorithm marketplace (a design for layer-2, data-backed tokens that would make data open, tradable, and programmable).
 
 Proposal Category: Choose one of core-dev, app-dev, devtools-libraries, **technical-design**, docs
 
